@@ -13,7 +13,7 @@
     <div class="swiper-container" data-aos="fade-down" data-aos-duration="1500">
       <div class="heading-2">
         <center>
-          <a href="" class="btn btn-light"><h1 class="text-center">Terumbu Karang Adalah</h1></a>
+          <a href="" class="btn btn-light"><h1 class="text-center">Apa itu Terumbu Karang?</h1></a>
         </center>
       </div>
       <!-- Additional required wrapper -->

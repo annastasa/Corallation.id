@@ -75,7 +75,7 @@
         <a style="padding: 70px;height:400px;width:400px" href="../Artikel/artikel1.php" class="card" style="width: 18rem;">
             <img style="border-radius: 150px;" src="../images/logo/logo1.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-              <p class="card-text">Terumbu karang adalah</p>
+              <p class="card-text">Apa itu Terumbu Karang?</p>
             </div>
           </a>
           <a style="padding: 70px;height:400px;width:400px" href="../Artikel/artikel2.php" class="card" style="width: 18rem;">

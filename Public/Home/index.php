@@ -78,7 +78,7 @@
       <a href="../Artikel/artikel1.php" class="card" style="width: 18rem;">
         <img src="../images/logo/logo1.jpg" class="card-img-top" alt="...">
         <div class="card-body">
-          <p class="card-text">Terumbu Karang adalah</p>
+          <p class="card-text">Apa itu Terumbu Karang?</p>
         </div>
       </a>
       <a href="../Artikel/artikel2.php" class="card" style="width: 18rem;">
@@ -96,6 +96,13 @@
     </div>
     <br><br>
     <!-- myValue End -->
+
+    <div class="text-center" style="margin-top: 10vh; color: black;">
+    <div class="saran">
+			<h1 class="text-center jdl" style="font-size: 50px">Corallation.id</h1>
+			<p class="text-center deskripsi" style="font-family: arial; font-size: 20px ">Coral Donation adalah situs donasi yang bergerak di bidang ekowisata khusus laut dan terumbu karang.</p>
+    </div>
+  </div>
     
     <div class="footer">
       <h1 class="text-center title"> About Us </h1>

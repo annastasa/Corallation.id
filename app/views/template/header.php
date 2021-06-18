@@ -6,7 +6,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title><?= $page->title ?> | Donasi Kita </title>
+    <title><?= $page->title ?> | Corallation.id </title>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="<?= BASE_URL ?>/Public/css/bootsrap/bootstrap.min.css" />
