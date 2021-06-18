@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light shadow">
       <div class="container">
-        <a class="navbar-brand" href="<?= BASE_URL ?>/Public/Home">Donasi Kita</a>
+        <a class="navbar-brand" href="<?= BASE_URL ?>/Public/Home">Corallation.id</a>
         <button
           class="navbar-toggler"
           type="button"
